@@ -55,7 +55,7 @@ Here's the breakdown of top-paying data engineering jobs in 2023:
 
 - Remote and full-time positions dominate, showing that flexibility and stability are key features of top-paying roles.
 
-![Top Paying Roles](/assets/1_top_paying_jobs.png)
+![Top Paying Roles](/assets/1_top_paying.png)
 *Bar graph visualizing the salaries for the top 10 skills for data engineers*
 
 ### 2. Skills required for top-paying Data Engineering roles
