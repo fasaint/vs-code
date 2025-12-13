@@ -104,7 +104,7 @@ Here's the breakdown of skills required for top-paying data engineering jobs:
 
 - **Key takeaway:** To target high-paying data engineering positions, candidates should focus on Python, Spark, SQL, and cloud experience. Advanced ML tools and big data frameworks are essential for leadership or highly specialized roles
 
-![Top Paying Roles](/assets/2_top_paying_job_skills.png)
+![Top Paying Roles]()
 *Bar graph visualizing the top skills for data engineers*
 
 ### 3. Most In-Demand Skills
