@@ -168,7 +168,7 @@ Breakdown:
 - Expertise in niche areas increases earning potential.
 - These skills are highly valued in top-tier positions.
 
-| Skills | Avg_Salary |
+| Skills | Avg_Salary ($USD) |
 |:--------:| :-----------: |
 | node | 181861.78 |
 | mongo | 179402.54 |
