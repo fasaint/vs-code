@@ -229,7 +229,7 @@ ORDER BY
 LIMIT 25;
 ```
 
-![Optimal Skills](/Data_jobs_analysis/assets/5_optimal_skills.png)
+![Optimal Skills]()
 *Scatter plot visualizing the optimal skills for data engineers*
 
 #  What i learned
